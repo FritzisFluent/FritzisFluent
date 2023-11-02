@@ -45,7 +45,7 @@ I'm a passionate full stack web developement student with a love for creating el
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzalexandre&show_icons=true&theme=dark)](https://github.com/fritzalexandre)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FritzisFluent&show_icons=true&theme=dark)](https://github.com/FritzisFluent)
 
 <!-- Recent Projects -->
 ## Recent Projects
