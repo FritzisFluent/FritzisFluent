@@ -22,7 +22,7 @@ I'm a passionate full stack web developement student with a love for creating el
   
 ### Languages I Speak
 
-- ![Haiti Flag](https://restcountries.com/data/hti.svg) Haitian
+- ![Haiti Flag](https://imgur.com/GvXvHoU) Haitian
 - ![France Flag](https://restcountries.com/data/fra.svg) French
 - ![Spain Flag](https://restcountries.com/data/esp.svg) Spanish
 - ![United Kingdom Flag](https://restcountries.com/data/gbr.svg) English
