@@ -22,11 +22,11 @@ I'm a passionate full stack web developement student with a love for creating el
   
 ### Languages I Speak
 
-- ![Haiti Flag](https://imgur.com/GvXvHoU) Haitian
-- ![France Flag](https://restcountries.com/data/fra.svg) French
-- ![Spain Flag](https://restcountries.com/data/esp.svg) Spanish
-- ![United Kingdom Flag](https://restcountries.com/data/gbr.svg) English
-- ![Brazil Flag](https://restcountries.com/data/bra.svg) Brazilian Portuguese
+- ![Haiti Flag](https://flagcdn.com/w2560/ht.png) Haitian Creole
+- ![France Flag](https://flagcdn.com/w2560/fr.png) French
+- ![Spain Flag](https://flagcdn.com/w2560/es.png) Spanish
+- ![United States](https://flagcdn.com/w2560/us.png) English
+- ![Brazil Flag](https://flagcdn.com/w2560/br.png) Brazilian Portuguese
 
 <!-- Connect with Me -->
 ## Connect with Me
@@ -34,7 +34,7 @@ I'm a passionate full stack web developement student with a love for creating el
 - 📧 Email: []
 - 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fritzalexandre/)
 - 🐦 Twitter: [Your Twitter Profile](https://twitter.com/fritzalexandre/)
-- 🌐 Personal Website: [Your Personal Website](https://www.fritzalexandre.com/)
+- 🌐 Personal Website: [Your Personal Website]()
 
 <!-- Languages and Tools -->
 ## Languages and Tools
@@ -63,4 +63,3 @@ Feel free to reach out to me on any of the platforms below. I'd love to connect 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fritzalexandre/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fritzalexandre/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.fritzisfluent.com/)
