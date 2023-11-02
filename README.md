@@ -6,35 +6,32 @@ I'm a passionate full stack web developement student with a love for creating el
 <!-- About Me -->
 ## About Me
 
-- 💼 Full stack web developement student at [https://tripleten.com/]
+- 💼 Full stack web developer student at [https://tripleten.com/]
 - 🚀 Passionate about web development and open-source projects
 - 🌱 I'm currently learning JavaScript Program Logic and Methods
 
 <!-- My Skills -->
 ## My Skills
 
-- 💻 Front-end Development (HTML, CSS, JavaScript)
-- 📱 Mobile App Development (React Native)
-- ⚙️ Back-end Development (Node.js, Express.js)
-- 🗃️ Database Management (MongoDB, MySQL)
+- 💻 Front-end Development (HTML, CSS, JavaScript, React)
 - 🧰 UI/UX Design (Figma)
-- 🛠️ ChatGPT OpenAi
-  
+- 🤖 ChatGPT OpenAi
+
+  <!-- Spoken Languages -->
 ### Languages I Speak
 
-- 🇭🇹![Haiti Flag]  Haitian Creole
-- 🇫🇷![France Flag]French
-- 🇪🇸![Spain Flag]Spanish
-- 🇺🇸![United States]English
-- 🇧🇷![Brazil Flag] Brazilian Portuguese
+- 🇭🇹 Haitian Creole
+- 🇫🇷 French
+- 🇪🇸 Spanish
+- 🇺🇸 English
+- 🇧🇷 Brazilian Portuguese
 
 <!-- Connect with Me -->
 ## Connect with Me
 
-- 📧 Email: []
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fritzalexandre/)
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/fritzalexandre/)
-- 🌐 Personal Website: [Your Personal Website]()
+- 📧 Email: [fritzgeraldalexandre7@gmail.com](fritzgeraldalexandre7@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/fritzalexandre/](https://www.linkedin.com/in/fritzalexandre/)
+- 🐦 Twitter: [https://twitter.com/fritzalexandre/](https://twitter.com/fritzalexandre/)
 
 <!-- Languages and Tools -->
 ## Languages and Tools
@@ -53,8 +50,56 @@ I'm a passionate full stack web developement student with a love for creating el
 <!-- Recent Projects -->
 ## Recent Projects
 
-- 🌟 [Project 1](https://github.com/FritzisFluent/se_project_aroundtheus) - A brief description of Project 1.
-- 🌟 [Project 2](https://github.com/fritzalexandre/project2) - A brief description of Project 2.
+
+     # Project 1: Practicum Library
+
+The Practicum Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
+
+## Project features
+
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Vertical stacking with z-index
+
+
+      # Project 1: La terracafe de Practicum
+
+This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
+
+## Project features
+
+- Semantic HTML5
+- Flexbox
+- Positioning
+- Flat BEM
+- A custom form
+- CSS animation and transform
+
+## Plan on improving the project
+
+Add your ideas here :)
+
+*Link each item on the menu to a corresponding matching image.
+*Adding some css animation to the videos.
+
+
+      # Project 3: Around The U.S.
+
+This is my 3rd project in the full stack Web development bootcamp at TripleTen. This project allows me to put into practice the technology that I learned during the third sprint at TripleTen.
+
+**Technology Used**
+
+- HTML
+- CSS
+- Javascript
+
+Below you will find link to both the project on Github pages and Figma file.
+
+- [link to GitHub page](https://fritzisfluent.github.io/se_project_aroundtheus/)
+
+- [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
+
 
 <!-- Footer -->
 ## Let's Connect
