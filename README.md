@@ -26,13 +26,6 @@ I'm a passionate full stack web developement student with a love for creating el
 - 🇺🇸 English
 - 🇧🇷 Brazilian Portuguese
 
-<!-- Connect with Me -->
-## Connect with Me
-
-- 📧 Email: [fritzgeraldalexandre7@gmail.com](fritzgeraldalexandre7@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/fritzalexandre/](https://www.linkedin.com/in/fritzalexandre/)
-- 🐦 Twitter: [https://twitter.com/fritzalexandre/](https://twitter.com/fritzalexandre/)
-
 <!-- Languages and Tools -->
 ## Languages and Tools
 
