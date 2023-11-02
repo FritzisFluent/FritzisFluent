@@ -50,8 +50,8 @@ I'm a passionate full stack web developement student with a love for creating el
 <!-- Recent Projects -->
 ## Recent Projects
 
-
-     # Project 1: Practicum Library
+<!-- Project 1: Practicum Library -->
+# Project 1: Practicum Library
 
 The Practicum Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
 
@@ -62,8 +62,8 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 - Positioning
 - Vertical stacking with z-index
 
-
-      # Project 1: La terracafe de Practicum
+<!-- Project 2: La terracafe de Practicum -->
+# Project 2: La terracafe de Practicum
 
 This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
 
@@ -78,13 +78,13 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Adding media queries to make it responsive :)
 
 *Link each item on the menu to a corresponding matching image.
 *Adding some css animation to the videos.
 
-
-      # Project 3: Around The U.S.
+<!-- Project 3: Around The U.S. -->
+# Project 3: Around The U.S.
 
 This is my 3rd project in the full stack Web development bootcamp at TripleTen. This project allows me to put into practice the technology that I learned during the third sprint at TripleTen.
 
