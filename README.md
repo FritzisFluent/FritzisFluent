@@ -1,5 +1,5 @@
 <!-- Header -->
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Fritz Gerald Alexandre
 
 I'm a passionate web developer with a love for creating elegant solutions to complex problems. Welcome to my GitHub profile!
 
@@ -9,7 +9,7 @@ I'm a passionate web developer with a love for creating elegant solutions to com
 - 💼 Software Engineer at [Your Current Company]
 - 🎓 Computer Science Graduate
 - 🚀 Passionate about web development and open-source projects
-- 🌱 I'm currently learning [What You're Learning]
+- 🌱 I'm currently learning responsive web design
 
 <!-- My Skills -->
 ## My Skills
@@ -25,10 +25,10 @@ I'm a passionate web developer with a love for creating elegant solutions to com
 <!-- Connect with Me -->
 ## Connect with Me
 
-- 📧 Email: [Your Email Address](mailto:youremail@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/yourusername/)
-- 🌐 Personal Website: [Your Personal Website](https://www.yourwebsite.com/)
+- 📧 Email: [Your Email Address](mailto:fritz@example.com)
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/fritzalexandre/)
+- 🐦 Twitter: [Your Twitter Profile](https://twitter.com/fritzalexandre/)
+- 🌐 Personal Website: [Your Personal Website](https://www.fritzalexandre.com/)
 
 <!-- Languages and Tools -->
 ## Languages and Tools
@@ -48,19 +48,19 @@ I'm a passionate web developer with a love for creating elegant solutions to com
 <!-- GitHub Stats -->
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fritzalexandre&show_icons=true&theme=dark)](https://github.com/fritzalexandre)
 
 <!-- Recent Projects -->
 ## Recent Projects
 
-- 🌟 [Project 1](https://github.com/yourusername/project1) - A brief description of Project 1.
-- 🌟 [Project 2](https://github.com/yourusername/project2) - A brief description of Project 2.
+- 🌟 [Project 1](https://github.com/fritzalexandre/project1) - A brief description of Project 1.
+- 🌟 [Project 2](https://github.com/fritzalexandre/project2) - A brief description of Project 2.
 
 <!-- Footer -->
 ## Let's Connect
 
 Feel free to reach out to me on any of the platforms below. I'd love to connect and collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.yourwebsite.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fritzalexandre/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fritzalexandre/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=portfolio&logoColor=white)](https://www.fritzalexandre.com/)
