@@ -22,11 +22,11 @@ I'm a passionate full stack web developement student with a love for creating el
   
 ### Languages I Speak
 
-- ![Haiti Flag](https://flagcdn.com/w2560/ht.png) Haitian Creole
-- ![France Flag](https://flagcdn.com/w2560/fr.png) French
-- ![Spain Flag](https://flagcdn.com/w2560/es.png) Spanish
-- ![United States](https://flagcdn.com/w2560/us.png) English
-- ![Brazil Flag](https://flagcdn.com/w2560/br.png) Brazilian Portuguese
+- 🇭🇹![Haiti Flag]  Haitian Creole
+- 🇫🇷![France Flag]French
+- 🇪🇸![Spain Flag]Spanish
+- 🇺🇸![United States]English
+- 🇧🇷![Brazil Flag] Brazilian Portuguese
 
 <!-- Connect with Me -->
 ## Connect with Me
