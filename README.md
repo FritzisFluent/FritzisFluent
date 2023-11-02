@@ -10,21 +10,22 @@ I'm a passionate full stack web developement student with a love for creating el
 - 🚀 Passionate about web development and open-source projects
 - 🌱 I'm currently learning JavaScript Program Logic and Methods
 
-<!-- My Skills -->
-## My Skills
-
-- 💻 Front-end Development (HTML, CSS, JavaScript, React)
-- 🧰 UI/UX Design (Figma)
-- 🤖 ChatGPT OpenAi
-
-  <!-- Spoken Languages -->
-### Languages I Speak
+<!-- Language proficiency -->
+## Language proficiency
 
 - 🇭🇹 Haitian Creole
 - 🇫🇷 French
 - 🇪🇸 Spanish
 - 🇺🇸 English
 - 🇧🇷 Brazilian Portuguese
+
+<!-- My Skills -->
+## My Skills
+
+- 💻 Front-end Development (HTML5, CSS3, JavaScript, React)
+- 🧰 UI/UX Design (Figma)
+- Visual Studio Code
+- 🤖 ChatGPT OpenAi
 
 <!-- Languages and Tools -->
 ## Languages and Tools
@@ -48,7 +49,7 @@ I'm a passionate full stack web developement student with a love for creating el
 
 The Practicum Library webpage is the first project in the Software Engineer program at Practicum. It was created using HTML and CSS, based on a design brief.
 
-## Project features
+### Project features
 
 - Semantic HTML5
 - Flexbox
@@ -60,7 +61,7 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 
 This is the second project of the Web Development program at Practicum. It was created using HTML and CSS, based on the design brief.
 
-## Project features
+### Project features
 
 - Semantic HTML5
 - Flexbox
@@ -69,12 +70,12 @@ This is the second project of the Web Development program at Practicum. It was c
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+### Plan on improving the project
 
 Adding media queries to make it responsive :)
 
-*Link each item on the menu to a corresponding matching image.
-*Adding some css animation to the videos.
+- Link each item on the menu to a corresponding matching image.
+- Adding some css animation to the videos.
 
 <!-- Project 3: Around The U.S. -->
 ## Project 3: Around The U.S.
