@@ -56,6 +56,9 @@ The Practicum Library webpage is the first project in the Software Engineer prog
 - Positioning
 - Vertical stacking with z-index
 
+- [link to GitHub page](https://fritzisfluent.github.io/Practicum-library/)
+
+
 <!-- Project 2: La terracafe de Practicum -->
 ## Project 2: La terracafe de Practicum
 
@@ -69,6 +72,8 @@ This is the second project of the Web Development program at Practicum. It was c
 - Flat BEM
 - A custom form
 - CSS animation and transform
+
+- [link to GitHub page](https://fritzisfluent.github.io/La-Terracafe-de-Practicum/)
 
 ### Plan on improving the project
 
@@ -88,11 +93,8 @@ This is my 3rd project in the full stack Web development bootcamp at TripleTen. 
 - CSS
 - Javascript
 
-Below you will find link to both the project on Github pages and Figma file.
+- [link to GitHub page](https://fritzisfluent.github.io/Around-The-US/)
 
-- [link to GitHub page](https://fritzisfluent.github.io/se_project_aroundtheus/)
-
-- [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)
 
 
 <!-- Footer -->
