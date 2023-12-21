@@ -15,7 +15,7 @@ I'm a passionate full stack web developement student with a love for creating el
 
 - 🇭🇹 Haitian Creole
 - 🇫🇷 French
-- 🇪🇸 Spanish
+- 🇩🇴 Spanish
 - 🇺🇸 English
 - 🇧🇷 Brazilian Portuguese
 
